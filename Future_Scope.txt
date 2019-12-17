@@ -1,0 +1,7 @@
+We can create a real-time app that can later get approved from playstore with which we can
+maintain a database to update with people’s real-time locations everytime they open the app through sensors. This saves us the extra dummy message which we sent to everyone to obtain their ip
+addresses and in the backend, it gets updated smartly with the last location of the user and date and
+time. This lets us save dummy message and sends messages even more faster when maintained an app
+for the same purpose. Hospitals and blood banks could use this to save their time and alert available
+donors quickly in case of emergencies through these kind of bots by saving pressure on humans
+during emergencies and also works quicker than us and much efficiently.

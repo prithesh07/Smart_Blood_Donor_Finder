@@ -1,0 +1,12 @@
+1. Firstly, when in emergency, all we would have to do is just to type our blood type and
+everything else will be taken care by this one code.
+2. We find the location of the user from where this code was ran using their ip address.
+3. Later, we send this location to any blood donor website and can find the registered donors’
+numbers from that site using selenium tool.
+4. Now, we send a dummy message to everyone to find their ip addresses.
+5. As soon as ip addresses of users are found, we filter only the users’ who are in same location
+as us.
+6. After this step, we now know the users and their numbers in the same location as us
+7. Later, we send a mass message to all the available registered donors asking for help to donate
+blood to us when we are in need. This is done using twilio.
+8. We have done a smart work here to know blood donors and geo-tag them to our location and send texts to only people nearby.

@@ -1,0 +1,5 @@
+1. We have used selenium as automation tool through PyCharm IDE
+2. We have used twilio to send texts to everyone’s mobile.
+3. We have used iplogger and ipinfo to obtain ip addresses and match them to their current
+geolocations.
+4. We have implemented our project using python
